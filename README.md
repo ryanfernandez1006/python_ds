@@ -1,11 +1,10 @@
 # Python for Data Science Bootcamp
 
-Schedule:
-
-|Bootcamp Intro |
-|Pandas|
-|Intro to Data Science|
-|Data Cleaning|
-|Data Visualization|
-|Linear Regression|
+|Schedule
+1 |Bootcamp Intro 
+2 |Pandas
+3 |Intro to Data Science
+4 |Data Cleaning|
+5|Data Visualization
+6 |Linear Regression
 
