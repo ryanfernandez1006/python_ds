@@ -1,6 +1,6 @@
 # Python for Data Science Bootcamp
 
-# | Schedule
+Order | Schedule
 --- | --- 
 1 |Bootcamp Intro 
 2 |Pandas
