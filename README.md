@@ -1,7 +1,7 @@
 # Python for Data Science Bootcamp
 
-|Schedule
-| --- |
+# |Schedule
+--- | --- |
 1 |Bootcamp Intro 
 2 |Pandas
 3 |Intro to Data Science
