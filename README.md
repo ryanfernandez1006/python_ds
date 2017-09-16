@@ -1,6 +1,6 @@
 # Python for Data Science Bootcamp
 
-![The slides can be seen here](https://docs.google.com/presentation/d/12TrsxQamS3OfZkGYbMUydEPH6ZACFKXCOEykqCUhWo8/edit?usp=sharing)
+[The slides can be seen here](https://docs.google.com/presentation/d/12TrsxQamS3OfZkGYbMUydEPH6ZACFKXCOEykqCUhWo8/edit?usp=sharing)
 
 
 Lesson | Schedule
