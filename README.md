@@ -12,3 +12,5 @@ Lesson | Schedule
 5|Data Visualization
 6 |Linear Regression
 
+Good reference:
+https://www.kaggle.com/headsortails/pytanic
